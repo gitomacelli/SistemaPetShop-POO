@@ -8,6 +8,7 @@ Permitir que uma clínica veterinária/pet shop registre diferentes tipos de ani
 
 ## 📦 Estrutura do Projeto
 
+PetShop/ ├── src/ │ ├── animal/ │ │ ├── Animal.java │ │ ├── Cachorro.java │ │ ├── Cavalo.java │ │ └── Passaro.java │ ├── main/ │ │ └── Main.java │ └── module-info.java
 
 ## 🐶 Animais Suportados
 
